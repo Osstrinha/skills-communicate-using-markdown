@@ -11,3 +11,9 @@ some randon sh
 ###### Ok i think at the bottom i don't have to use the "#" mark, so the MarkDown can interpret as a commit message
 
 So, i did what README file at "skills-communicate-using-markdown" told me to do :)
+
+
+##### Ok now i'm in the second step of the readme, i'll add a capybara image above to complete this step
+![Image of a Capybara](https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg)
+
+
