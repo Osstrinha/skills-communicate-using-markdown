@@ -24,3 +24,7 @@ print("Hello World")
 
 ##### Next step is to make a task lisk
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
